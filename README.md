@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Secbone
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Metrics](/github-metrics.svg)
 
 <!---
 Secbone/Secbone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
